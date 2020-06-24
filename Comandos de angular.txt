@@ -1,0 +1,39 @@
+COMANDO PARA ANGULAR
+
+npm install -g npm@latest = Actualiza version de Node
+node --version = Comprueba version de Node
+
+ng --version = Comprueba version de Angular
+npm uninstall -g angular-cli = Desistalar paquetes de Angular
+npm uninstall -g @angular/cli = Desistalar version de Angular
+npm cache verify = Verificar cache de Angular
+npm cache clean --force = Elimina la cache de angular
+
+npm install -g @angular/cli@latest = Installa la ultima version de angular
+npm install @angular/cli@latest = Actualiza la version de angular en un proyecto ya creado
+ng update @angular/cli = Actualiza la version de angular de proyecto 
+ng update = Actualiza
+ng update @angular/core = Actualiza paquetes de angular
+ng update rxjs = Actualiza el Rxjs
+ng update --all = Actualiza todo
+ng update --all --force = Obliga a actualizar todo
+
+ng new instalacion-angular6 = Crea un nuevo proyecto angular
+ng serve = Inicia el servidor local del proyecto
+ng g component nombre_component = Crea un nuevo componente
+ng g directive nombre_directiva = Crea una nueva directiva
+
+npm install -g npm@latest = Solucion de errores de vulnerabilidad de node y npm
+npm set audit false = Solucion de problema de audiciones npm
+
+npm uninstall --save typescript = Desistalar Typescript
+npm install --save typescript@2.7.2 = Instala la version indicada
+
+npm uninstall --save bootstrap = Desinstala la version de Bootstrap
+npm install --save bootstrap@3.3.6 = Installa la version indicada
+
+npm uninstall --save jquery = Desinstala la version de Jquery
+npm install --save jquery@1.9.1 = Instala la version indicada
+
+npm uninstall --save rxjs-compat = Desistala Rxjs
+npm install --save rxjs-compat = Instala Rxjs
